@@ -11,6 +11,8 @@ int main(void)
 =======
 	printf("add a branch\n");
 >>>>>>> experimental
+	
+	printf("push by test\n");
 
 	return 0;
 }
