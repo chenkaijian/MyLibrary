@@ -6,6 +6,7 @@ int main(void)
 	int b;
 
 	printf("aaaaaaaaaaaaaaa\n");
+	printf("change at master\n");
 
 	return 0;
 }
