@@ -13,6 +13,7 @@ int main(void)
 >>>>>>> experimental
 	
 	printf("push by test\n");
+2014/10/24修改
 
 	return 0;
 }
